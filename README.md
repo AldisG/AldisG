@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aldis Gailis</h1>
 <h3 align="center">A passionate frontend developer from Latvia.</h3>
-<h4>123123</h4>
+<h4>In my work experience, I have worked in many different fields, which have brought me a great perspective on how to solve things. I find great joy in solving problems, broadening my skills and competencies, and making things work.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
